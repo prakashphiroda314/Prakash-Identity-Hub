@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-https://prakashphiroda314.github.io/Prakash-Identity-Hub/sitemap.xml
+Sitemap: https://prakashphiroda314.github.io/Prakash-Identity-Hub/sitemap.xml
